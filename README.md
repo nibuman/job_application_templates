@@ -1,6 +1,6 @@
 # job_application_templates
 
-CV and covering letter templates. Based on the designs of [oresstokovenko](https://github.com/oresttokovenko/resume_templates) but changed to fit a UK CV format.
+CV and covering letter templates in `latex`. Based on the designs of [oresstokovenko](https://github.com/oresttokovenko/resume_templates) but changed to fit a UK CV format.
 
 ## Usage
 
@@ -13,7 +13,7 @@ xelatex CV_example.tex
 
 ## CV
 
-See ![example CV.](./CVs/CV_example.pdf)
+See [example CV.](./CVs/CV_example.pdf)
 
 Changes from original:
 
