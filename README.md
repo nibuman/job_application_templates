@@ -13,7 +13,7 @@ xelatex CV_example.tex
 
 ## CV
 
-See ![example CV.]{./CVs/CV_example.pdf}
+See ![example CV.](./CVs/CV_example.pdf)
 
 Changes from original:
 
