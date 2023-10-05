@@ -13,6 +13,8 @@ xelatex CV_example.tex
 
 ## CV
 
+See [example CV.]{./CVs/CV_example.pdf}
+
 Changes from original:
 
 - Renamed the section headings
