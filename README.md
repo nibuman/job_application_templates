@@ -13,7 +13,12 @@ xelatex CV_example.tex
 
 ## CV
 
-See [example CV.](./CVs/CV_example.pdf)
+| Page 1 | Page 2|
+| :-: | :-: |
+| ![page1](./CVs/CV_example_p1.png) | ![page2](./CVs/CV_example_p2.png)|
+
+
+See also [example CV pdf.](./CVs/CV_example.pdf)
 
 Changes from original:
 
